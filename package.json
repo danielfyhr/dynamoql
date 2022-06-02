@@ -1,0 +1,21 @@
+{
+  "name": "dynamoql",
+  "version": "0.0.1",
+  "description": "A small library to simplify writing queries for Amazon DynamoDB.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "dynamodb",
+    "aws",
+    "nosql",
+    "serverless"
+  ],
+  "author": "Daniel Fyhr",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielfyhr/dynamoql"
+  }
+}
